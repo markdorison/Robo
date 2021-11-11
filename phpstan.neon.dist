@@ -1,0 +1,5 @@
+parameters:
+    #level: max
+    level: 1
+    paths:
+        - %currentWorkingDirectory%/src/
